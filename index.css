@@ -1,0 +1,12 @@
+.mf1{
+    /* border: ; */
+    cursor: pointer;
+    margin-top: 100px;
+    margin-left: 100px;
+    /* padding-left: 100px; */
+
+    background-color: rgb(13, 121, 229);
+}
+body{
+    background-color: rgba(235, 23, 189, 0.84);
+}
